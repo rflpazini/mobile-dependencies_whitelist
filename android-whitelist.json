@@ -40,7 +40,7 @@
     {
       "group": "com\\.airbnb\\.android",
       "name": "lottie",
-      "version": "2\\.7\\.0|3\\.3\\.1"
+      "version": "2\\.7\\.0"
     },
     {
       "group": "com\\.android\\.installreferrer",
@@ -275,7 +275,7 @@
     {
       "group": "com\\.journeyapps",
       "name": "zxing-android-embedded",
-      "version": "3\\.6\\.0|4\\.0\\.2"
+      "version": "3\\.6\\.0"
     },
     {
       "group": "com\\.mercadolibre\\.android",
@@ -496,12 +496,7 @@
       "name": "melicharts",
       "version": "0\\.\\+"
     },
-    {
-      "group": "com\\.mercadolibre\\.android\\.classifieds",
-      "name": "credits",
-      "version": "1\\.\\+"
-    },
-    {
+     {
       "group": "com\\.mercadolibre\\.android\\.classifieds",
       "name": "dynamic-flow",
       "version": "0\\.\\+"
@@ -510,6 +505,11 @@
       "group": "com\\.mercadolibre\\.android\\.classifieds",
       "name": "listing",
       "version": "0\\.\\+"
+    },
+    {
+      "group": "com\\.mercadolibre\\.android\\.classifieds",
+      "name": "credits",
+      "version": "1\\.\\+"
     },
     {
       "group": "com\\.mercadolibre\\.android\\.commons",
@@ -1103,6 +1103,12 @@
       "version": "1\\.+"
     },
     {
+      "group": "com\\.mercadolibre\\.android\\.andesui",
+      "name": "components",
+      "version": "2\\.+"
+    },
+    {
+      "expires": "2020-03-13",
       "group": "com\\.mercadolibre\\.android\\.andesui",
       "name": "components",
       "version": "1\\.+"
