@@ -496,7 +496,7 @@
       "name": "melicharts",
       "version": "0\\.\\+"
     },
-     {
+    {
       "group": "com\\.mercadolibre\\.android\\.classifieds",
       "name": "dynamic-flow",
       "version": "0\\.\\+"
