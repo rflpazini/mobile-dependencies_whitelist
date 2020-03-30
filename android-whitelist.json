@@ -45,7 +45,7 @@
     {
       "group": "com\\.android\\.installreferrer",
       "name": "installreferrer",
-      "version": "1\\.0"
+      "version": "1\\.1\\.2"
     },
     {
       "group": "com\\.bugsnag",
@@ -142,7 +142,11 @@
       "name": "rx-preferences",
       "version": "1\\.0\\.2"
     },
-    
+    {
+      "group": "com\\.facebook\\.android",
+      "name": "facebook-applinks",
+      "version": "5\\.15\\.3"
+    },
     {
       "group": "com\\.facebook\\.android",
       "name": "facebook-android-sdk",
@@ -206,7 +210,7 @@
     {
       "group": "com\\.google\\.android\\.gms",
       "name": "play-services-maps",
-      "version": "16\\.0\\.0"
+      "version": "16\\.0\\.0|10\\.2\\.6"
     },
     {
       "group": "com\\.google\\.android\\.gms",
@@ -231,7 +235,7 @@
     {
       "group": "com\\.google\\.firebase",
       "name": "firebase-appindexing",
-      "version": "16\\.0\\.2"
+      "version": "16\\.0\\.2|10\\.2\\.6"
     },
     {
       "group": "com\\.google\\.firebase",
@@ -246,12 +250,12 @@
     {
       "group": "com\\.google\\.firebase",
       "name": "firebase-core",
-      "version": "16\\.0\\.4|10\\.2\\.6|17\\.2\\.3"
+      "version": "16\\.0\\.4|10\\.2\\.6"
     },
     {
       "group": "com\\.google\\.firebase",
       "name": "firebase-messaging",
-      "version": "17\\.3\\.4|20\\.1\\.1"
+      "version": "17\\.3\\.4"
     },
     {
       "group": "com\\.google\\.firebase",
@@ -281,13 +285,13 @@
     {
       "group": "com\\.mercadolibre\\.android",
       "name": "authentication",
-      "version": "13\\.+"
+      "version": "13\\.\\+"
     },
     {
       "expires": "2020-01-01",
       "group": "com\\.mercadolibre\\.android",
       "name": "authentication",
-      "version": "13\\.\\+"
+      "version": "13\\.0\\.\\+"
     },
     {
       "expires": "2020-01-01",
@@ -430,7 +434,7 @@
     {
       "group": "com\\.mercadolibre\\.android\\.adjust",
       "name": "core",
-      "version": "mercadopago-1\\.\\+|mercadolibre-1\\.\\+"
+      "version": "mercadopago-1\\.\\+|mercadolibre-1\\.\\+|2\\.\\+"
     },
     {
       "group": "com\\.mercadolibre\\.android",
@@ -483,9 +487,19 @@
       "version": "0\\.\\+"
     },
     {
+      "group": "com\\.mercadolibre\\.android\\.cross_app_links",
+      "name": "core",
+      "version": "1\\.\\+"
+    },
+    {
       "group": "com\\.mercadolibre\\.android\\.charts",
       "name": "melicharts",
       "version": "0\\.\\+"
+    },
+    {
+      "group": "com\\.mercadolibre\\.android\\.classifieds",
+      "name": "credits",
+      "version": "1\\.\\+"
     },
     {
       "group": "com\\.mercadolibre\\.android\\.classifieds",
@@ -804,7 +818,7 @@
     {
       "group": "com\\.polidea\\.rxandroidble",
       "name": "rxandroidble",
-      "version": "1\\.5\\.0|release-1\\.11\\.0-rxjava2"
+      "version": "1\\.5\\.0"
     },
     {
       "group": "com\\.squareup",
@@ -970,7 +984,7 @@
     {
       "group": "com\\.mercadolibre\\.android\\.security",
       "name": "security_preferences",
-      "version": "mercadopago-1\\.\\+|mercadopago-2\\.2\\.0"
+      "version": "mercadopago-1\\.\\+|mercadopago-2\\.\\+"
     },
     {
       "group": "com\\.mercadolibre\\.android\\.security",
@@ -1000,6 +1014,11 @@
     {
       "group": "com\\.mercadolibre\\.android\\.loyalty\\.datamanager",
       "name": "data-manager",
+      "version": "1\\.\\+"
+    },
+    {
+      "group": "com\\.mercadolibre\\.android\\.loyalty_ui_components",
+      "name": "components",
       "version": "1\\.\\+"
     },
     {
@@ -1050,7 +1069,13 @@
     {
       "group": "com\\.mercadolibre\\.android\\.traceability",
       "name": "traceability",
-      "version": "1\\.+"
+      "version": "2\\.\\+"
+    },
+    {
+      "expires": "2020-03-04",
+      "group": "com\\.mercadolibre\\.android\\.traceability",
+      "name": "traceability",
+      "version": "1\\.\\+"
     },
     {
       "group": "com\\.mercadolibre\\.android\\.inappupdates",
@@ -1065,7 +1090,7 @@
     {
       "group": "com\\.mercadolibre\\.android\\.draftandesui",
       "name": "draft-modal",
-      "version": "2\\.+"
+      "version": "3\\.+"
     },
     {
       "group": "com\\.mercadolibre\\.android\\.cardform",
