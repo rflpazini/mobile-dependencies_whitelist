@@ -163,6 +163,11 @@
       "version": "1\\.13\\.0|2\\.1\\.0"
     },
     {
+      "group": "com\\.facebook\\.soloader",
+      "name": "soloader",
+      "version": "0\\.9\\.0\\+"
+    },
+    {
       "group": "com\\.github\\.PhilJay",
       "name": "MPAndroidChart",
       "version": "v3\\.1\\.0"
